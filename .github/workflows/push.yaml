@@ -1,4 +1,4 @@
-name: test_fs12
+name: sprint12
 on: push
 jobs:
   test:
